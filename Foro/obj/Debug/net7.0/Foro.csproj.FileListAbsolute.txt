@@ -1,0 +1,15 @@
+C:\Users\gonza\source\repos\POOPACII2023\Unidad I\04-Foro\Foro\Foro\bin\Debug\net7.0\Foro.exe
+C:\Users\gonza\source\repos\POOPACII2023\Unidad I\04-Foro\Foro\Foro\bin\Debug\net7.0\Foro.deps.json
+C:\Users\gonza\source\repos\POOPACII2023\Unidad I\04-Foro\Foro\Foro\bin\Debug\net7.0\Foro.runtimeconfig.json
+C:\Users\gonza\source\repos\POOPACII2023\Unidad I\04-Foro\Foro\Foro\bin\Debug\net7.0\Foro.dll
+C:\Users\gonza\source\repos\POOPACII2023\Unidad I\04-Foro\Foro\Foro\bin\Debug\net7.0\Foro.pdb
+C:\Users\gonza\source\repos\POOPACII2023\Unidad I\04-Foro\Foro\Foro\obj\Debug\net7.0\Foro.csproj.AssemblyReference.cache
+C:\Users\gonza\source\repos\POOPACII2023\Unidad I\04-Foro\Foro\Foro\obj\Debug\net7.0\Foro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonza\source\repos\POOPACII2023\Unidad I\04-Foro\Foro\Foro\obj\Debug\net7.0\Foro.AssemblyInfoInputs.cache
+C:\Users\gonza\source\repos\POOPACII2023\Unidad I\04-Foro\Foro\Foro\obj\Debug\net7.0\Foro.AssemblyInfo.cs
+C:\Users\gonza\source\repos\POOPACII2023\Unidad I\04-Foro\Foro\Foro\obj\Debug\net7.0\Foro.csproj.CoreCompileInputs.cache
+C:\Users\gonza\source\repos\POOPACII2023\Unidad I\04-Foro\Foro\Foro\obj\Debug\net7.0\Foro.dll
+C:\Users\gonza\source\repos\POOPACII2023\Unidad I\04-Foro\Foro\Foro\obj\Debug\net7.0\refint\Foro.dll
+C:\Users\gonza\source\repos\POOPACII2023\Unidad I\04-Foro\Foro\Foro\obj\Debug\net7.0\Foro.pdb
+C:\Users\gonza\source\repos\POOPACII2023\Unidad I\04-Foro\Foro\Foro\obj\Debug\net7.0\Foro.genruntimeconfig.cache
+C:\Users\gonza\source\repos\POOPACII2023\Unidad I\04-Foro\Foro\Foro\obj\Debug\net7.0\ref\Foro.dll
